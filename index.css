@@ -271,6 +271,21 @@ h3{
     }
 }
 
+@media (max-width: 1024px){
+    .contenedor-nosotros p{
+        width: 80%;
+        font-size: 1.3em;
+        font-family: jost-2;   
+    }
+    nav{
+        width: 80%;
+    }
+    .maps{
+        width: 25rem;
+        height: 18rem;
+    }
+}
+
 @media (max-width: 768px){
     a{
         font-size: .8em; 
