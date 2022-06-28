@@ -290,6 +290,9 @@ h3{
     a{
         font-size: .8em; 
     }
+    a:hover{ 
+        font-size: .8em;
+    }
     nav{
         width: 85%;
     }
@@ -331,6 +334,9 @@ h3{
 
 @media (max-width: 425px){
     a{
+        font-size: .5em;
+    }
+    a:hover{ 
         font-size: .5em;
     }
     nav{
@@ -390,6 +396,9 @@ h3{
         width: 7rem;
         height: 7rem;
     }
+    a:hover{ 
+        font-size: .4em;
+    }
 }
 
 
@@ -401,4 +410,7 @@ h3{
         width: 5.5rem;
         height: 6rem;
     }
+   a:hover{ 
+    font-size: .2em;
+}
 }
