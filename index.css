@@ -358,6 +358,30 @@ h3{
     a{
         font-size: .4em;
     }
+    nav{
+        width: 85%;
+    }
+    span{
+        font-size: .4em;
+    }
+    .card-servicios{
+        width: 5.5rem;
+        height: 6rem;
+    }
+    .lista-contacto a{
+        font-size: .3em;
+    }
+    .maps{
+        width: 7rem;
+        height: 7rem;
+    }
+}
+
+
+@media (max-width: 320px){
+    a{
+        font-size: .2em;
+    }
     .card-servicios{
         width: 5.5rem;
         height: 6rem;
